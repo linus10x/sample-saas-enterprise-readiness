@@ -14,7 +14,7 @@ An analytics platform built inside a services firm for its own use: automated re
 ## Days 1 to 15: see it as it is
 - Codebase and architecture review; list single points of failure, with one owner per item.
 - Access review: who can reach production, how, with what MFA. Remove shared accounts.
-- **Backups: run a real restore into a clean environment and time it.** Most teams find out here that recovery has never been tested.
+- **Backups: run a real restore into a clean environment and time it.** Many teams find out here that recovery has never been tested.
 - Data pipeline review: every partner feed listed with its owner, schedule, failure behaviour and a data contract.
 - Read the last 5 security questionnaires from prospects; build the answer bank from what is true today.
 - Deliverable: a one-page risk register ranked by "blocks an enterprise deal" first.
