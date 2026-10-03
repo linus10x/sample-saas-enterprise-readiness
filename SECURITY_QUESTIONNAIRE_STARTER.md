@@ -1,6 +1,6 @@
 # SAMPLE: evidence-backed questionnaire starter
 
-> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 2, 2026 (America/Chicago).**
+> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 3, 2026 (America/Chicago).**
 
 Use the patterns below only after verifying the actual control. No row asserts that a control exists. Record scope, owner, evidence ID, verifier/date, release clearance and next review. Distinguish implemented and tested, implemented but untested, planned, and unknown. Planned dates require an accountable owner's agreement; auditor dates require the audit firm's agreement. Unresolved placeholders must never be sent to a prospect.
 

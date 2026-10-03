@@ -1,10 +1,10 @@
 # SAMPLE: 90-day SaaS enterprise readiness plan
 
-> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 2, 2026 (America/Chicago).**
+> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 3, 2026 (America/Chicago).**
 
 ## Mandate and capacity
 
-SpinCo is a fictional analytics spinout with partner feeds, automated reports, an early predictive feature and two or three engineers. The proposed mandate is to help close enterprise deals while making delivery and operations dependable. This is relevant to the [Sponsorship spinout CTO role](https://www.gofractional.com/job/fractional-cto-cmu7773s); it does not diagnose that company.
+SpinCo is a fictional analytics spinout with partner feeds, automated reports, an early predictive feature and two or three engineers. The proposed mandate is to help close enterprise deals while making delivery and operations dependable.
 
 Assume 10-15 fractional leadership hours a week, an available engineering lead and 20-30 implementation hours a week from the existing team, agreed with the founder. That is about 130-195 leadership hours and 260-390 engineering hours across 13 weeks. The plan prioritizes within that capacity. Major SSO integration, a new tenant-isolation design or a data-platform rebuild requires a separate estimate. The founder approves the budget and customer commitments; engineering owns changes; sales supplies prospect requirements; the CTO coordinates and verifies.
 
