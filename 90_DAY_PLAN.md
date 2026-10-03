@@ -16,13 +16,13 @@ By day 90, the selected enterprise requirements should have a verified answer or
 
 Review the last five available prospect questionnaires and the contracts that affect access, residency and recovery. Rank requirements by deal dependency, customer impact and implementation effort. Record missing artifacts rather than filling the answer bank with assumed controls.
 
-Review production access, shared credentials and offboarding with the engineering lead. Revoke unnecessary access through the approved change process. Map services, feeds, vendor dependencies and tenant boundaries. Run the restore exercise below. Establish a baseline for feed freshness, failed jobs, deployment frequency and incidents. For the predictive feature, identify the target outcome, source rights, leakage risks and whether an evaluation exists.
+Review production access, shared credentials and offboarding with the engineering lead. Revoke unnecessary access through the approved change process. Map services, feeds, vendor dependencies and tenant boundaries. Run the timed restore exercise below in week one. Establish a baseline for feed freshness, failed jobs, deployment frequency and incidents. For the predictive feature, identify the target outcome, source rights, leakage risks and whether an evaluation exists.
 
 Day-15 deliverables: an architecture/service map, evidence index, risk register and founder-approved backlog. Reserve immediate capacity for a failed restore, exposed credential or cross-tenant defect; revise other dates if needed.
 
 ## Days 16-45: implement the selected deal blockers
 
-The team implements the top items in the agreed backlog. Typical candidates are named staff access/MFA, product roles and tenant checks, reviewed releases, tested rollback, feed contracts and freshness alerts. Choose work according to verified gaps; do not assume every item is a small configuration change.
+The team implements the top items in the agreed backlog. Typical candidates are named staff access/MFA, product roles and tenant checks, an audit log of admin actions, CI/CD with reviewed releases and tested rollback, alerts on the jobs customers depend on, feed contracts and freshness alerts. Choose work according to verified gaps; do not assume every item is a small configuration change.
 
 The CTO attends selected prospect calls with sales and BI/data stakeholders, explains current capabilities, and records any new commitment before it enters the roadmap. For a predictive feature, establish a held-out, time-appropriate evaluation with product-approved quality thresholds, failure handling and model/data version records. Prevent target leakage and assess drift; do not ship on a training metric alone.
 
