@@ -1,16 +1,7 @@
-# SAMPLE: 90-day enterprise-readiness plan for a SaaS spinout
+# SAMPLE: enterprise readiness for a SaaS spinout
 
-> **Illustrative sample for a fictional company. No client relationship. Not based on any real engagement or confidential material.** Prepared by Kunjar Bhaduri (Bhaduri Advisory), October 2, 2026, with AI drafting assistance under my direction.
+> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 3, 2026 (America/Chicago).**
 
-## What it is
-- `90_DAY_PLAN.md`: a fractional CTO plan for turning an internally built analytics tool into a SaaS product enterprise buyers will approve: codebase and access review, a real restore test in week 1, CI/CD, observability, incident response, access controls and auditability, AI evaluation, roadmap and hiring plan, and a control map showing which SOC 2 common-criteria areas the work produces evidence for.
-- `SECURITY_QUESTIONNAIRE_STARTER.md`: an answer bank built on one rule: say what is true today, attach evidence, date anything planned.
+The [90-day plan](90_DAY_PLAN.md) connects enterprise buying requirements to an achievable backlog, accountable owners and demonstrable controls. It includes capacity assumptions, a timed recovery exercise, predictive-model checks and a conditional SOC 2 readiness path. The [questionnaire starter](SECURITY_QUESTIONNAIRE_STARTER.md) keeps current evidence separate from plans.
 
-## Which bids it answers
-Fractional CTO roles at spinouts and small SaaS companies that need security and compliance controls for enterprise prospects, CI/CD, observability, backups and recovery, and a hiring plan.
-
-## Important wording
-The plan puts a company **on a track to** SOC 2 Type II. It never claims compliance or certification; only an auditor's report does that.
-
-## Limits
-Fictional company; durations are planning assumptions.
+Relevant to fractional CTO roles involving enterprise readiness, data operations and leadership transition. This shows a proposed operating approach, not completed implementation or an attestation report. There is no code to run.
